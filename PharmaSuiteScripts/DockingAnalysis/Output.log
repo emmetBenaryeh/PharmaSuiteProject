@@ -1,0 +1,1045 @@
+C:\adt\python.exe: can't find '__main__' module in 'C:\\adt\\Lib\\site-packages\\AutoDockTools\\DockingAnalysis\\LigandsPDB'
+C:\adt\python.exe: can't find '__main__' module in 'C:\\adt\\Lib\\site-packages\\AutoDockTools\\DockingAnalysis\\LigandsPDB'
+C:\adt\python.exe: can't find '__main__' module in 'C:\\adt\\Lib\\site-packages\\AutoDockTools\\DockingAnalysis\\LigandsPDB'
+C:\adt\python.exe: can't find '__main__' module in 'C:\\adt\\Lib\\site-packages\\AutoDockTools\\DockingAnalysis\\LigandsPDB'
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+Traceback (most recent call last):
+  File "C:\adt\Lib\site-packages\AutoDockTools\prepare_ligand4.py", line 185, in <module>
+    mols = Read(ligand_filename)
+  File "C:\adt\lib\site-packages\MolKit\__init__.py", line 21, in Read
+    raise AssertionError , "%s does't exist" %filename
+AssertionError: Ligand_0M.pdb does't exist
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+Traceback (most recent call last):
+  File "C:\adt\Lib\site-packages\AutoDockTools\prepare_ligand4.py", line 185, in <module>
+    mols = Read(ligand_filename)
+  File "C:\adt\lib\site-packages\MolKit\__init__.py", line 21, in Read
+    raise AssertionError , "%s does't exist" %filename
+AssertionError: Ligand_1M.pdb does't exist
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+Traceback (most recent call last):
+  File "C:\adt\Lib\site-packages\AutoDockTools\prepare_ligand4.py", line 185, in <module>
+    mols = Read(ligand_filename)
+  File "C:\adt\lib\site-packages\MolKit\__init__.py", line 21, in Read
+    raise AssertionError , "%s does't exist" %filename
+AssertionError: Ligand_2M.pdb does't exist
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+Traceback (most recent call last):
+  File "C:\adt\Lib\site-packages\AutoDockTools\prepare_ligand4.py", line 185, in <module>
+    mols = Read(ligand_filename)
+  File "C:\adt\lib\site-packages\MolKit\__init__.py", line 21, in Read
+    raise AssertionError , "%s does't exist" %filename
+AssertionError: Ligand_3M.pdb does't exist
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+Traceback (most recent call last):
+  File "C:\adt\Lib\site-packages\AutoDockTools\prepare_ligand4.py", line 185, in <module>
+    mols = Read(ligand_filename)
+  File "C:\adt\lib\site-packages\MolKit\__init__.py", line 21, in Read
+    raise AssertionError , "%s does't exist" %filename
+AssertionError: Ligand_0M.pdb does't exist
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+Traceback (most recent call last):
+  File "C:\adt\Lib\site-packages\AutoDockTools\prepare_ligand4.py", line 185, in <module>
+    mols = Read(ligand_filename)
+  File "C:\adt\lib\site-packages\MolKit\__init__.py", line 21, in Read
+    raise AssertionError , "%s does't exist" %filename
+AssertionError: Ligand_1M.pdb does't exist
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+Traceback (most recent call last):
+  File "C:\adt\Lib\site-packages\AutoDockTools\prepare_ligand4.py", line 185, in <module>
+    mols = Read(ligand_filename)
+  File "C:\adt\lib\site-packages\MolKit\__init__.py", line 21, in Read
+    raise AssertionError , "%s does't exist" %filename
+AssertionError: Ligand_2M.pdb does't exist
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+Traceback (most recent call last):
+  File "C:\adt\Lib\site-packages\AutoDockTools\prepare_ligand4.py", line 185, in <module>
+    mols = Read(ligand_filename)
+  File "C:\adt\lib\site-packages\MolKit\__init__.py", line 21, in Read
+    raise AssertionError , "%s does't exist" %filename
+AssertionError: Ligand_3M.pdb does't exist
+Unknown option: -l
+usage: C:\adt\python.exe [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+Unknown option: -l
+usage: C:\adt\python.exe [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+Unknown option: -l
+usage: C:\adt\python.exe [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+Unknown option: -l
+usage: C:\adt\python.exe [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+Unknown option: -l
+usage: C:\adt\python.exe [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+Unknown option: -l
+usage: C:\adt\python.exe [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+Unknown option: -l
+usage: C:\adt\python.exe [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+Unknown option: -l
+usage: C:\adt\python.exe [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+Unknown option: -l
+usage: C:\adt\python.exe [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+Unknown option: -l
+usage: C:\adt\python.exe [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  LigandEmmet_0M.pdb
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+returning  0
+No change in atomic coordinates
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  LigandEmmet_1M.pdb
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+returning  0
+No change in atomic coordinates
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  LigandEmmet_2M.pdb
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+returning  0
+No change in atomic coordinates
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  LigandEmmet_3M.pdb
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+returning  0
+No change in atomic coordinates
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  OutputNew.pdbqt
+Traceback (most recent call last):
+  File "C:\adt\Lib\site-packages\AutoDockTools\prepare_ligand4.py", line 187, in <module>
+    mol = mols[0]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  LigandEmmet_0M.pdb
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+returning  0
+No change in atomic coordinates
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  LigandEmmet_1M.pdb
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+returning  0
+No change in atomic coordinates
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  LigandEmmet_2M.pdb
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+returning  0
+No change in atomic coordinates
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  LigandEmmet_3M.pdb
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+returning  0
+No change in atomic coordinates
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  OutputNew.pdbqt
+Traceback (most recent call last):
+  File "C:\adt\Lib\site-packages\AutoDockTools\prepare_ligand4.py", line 187, in <module>
+    mol = mols[0]
+TypeError: 'NoneType' object has no attribute '__getitem__'
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  3e77AgainPrepped.pdb
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+Traceback (most recent call last):
+  File "C:\adt\Lib\site-packages\AutoDockTools\prepare_ligand4.py", line 242, in <module>
+    attach_singletons=attach_singletons)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 1016, in __init__
+    detect_bonds_between_cycles=detect_bonds_between_cycles)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 765, in __init__
+    delete_single_nonstd_residues=False)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 124, in __init__
+    self.repairMol(mol, self.repair_type_list)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 174, in repairMol
+    self.newHs = self.addHydrogens(mol)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 187, in addHydrogens
+    HB.addHydrogens(mol)
+  File "C:\adt\lib\site-packages\MolKit\hydrogenBuilder.py", line 61, in addHydrogens
+    babel.assignHybridization(mol.allAtoms)
+  File "C:\adt\lib\site-packages\PyBabel\atomTypes.py", line 127, in assignHybridization
+    a.babel_atomic_number = self.get_atomic_number(a.babel_type)
+  File "C:\adt\lib\site-packages\PyBabel\atomTypes.py", line 103, in get_atomic_number
+    (name,_name) )
+ValueError: Could not find atomic number for A A
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  3e77Prepped3.pdb
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+Traceback (most recent call last):
+  File "C:\adt\Lib\site-packages\AutoDockTools\prepare_ligand4.py", line 242, in <module>
+    attach_singletons=attach_singletons)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 1016, in __init__
+    detect_bonds_between_cycles=detect_bonds_between_cycles)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 765, in __init__
+    delete_single_nonstd_residues=False)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 124, in __init__
+    self.repairMol(mol, self.repair_type_list)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 174, in repairMol
+    self.newHs = self.addHydrogens(mol)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 187, in addHydrogens
+    HB.addHydrogens(mol)
+  File "C:\adt\lib\site-packages\MolKit\hydrogenBuilder.py", line 61, in addHydrogens
+    babel.assignHybridization(mol.allAtoms)
+  File "C:\adt\lib\site-packages\PyBabel\atomTypes.py", line 127, in assignHybridization
+    a.babel_atomic_number = self.get_atomic_number(a.babel_type)
+  File "C:\adt\lib\site-packages\PyBabel\atomTypes.py", line 103, in get_atomic_number
+    (name,_name) )
+ValueError: Could not find atomic number for A A
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  3e77Prepped4.pdb
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+Traceback (most recent call last):
+  File "C:\adt\Lib\site-packages\AutoDockTools\prepare_ligand4.py", line 242, in <module>
+    attach_singletons=attach_singletons)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 1016, in __init__
+    detect_bonds_between_cycles=detect_bonds_between_cycles)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 765, in __init__
+    delete_single_nonstd_residues=False)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 124, in __init__
+    self.repairMol(mol, self.repair_type_list)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 174, in repairMol
+    self.newHs = self.addHydrogens(mol)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 187, in addHydrogens
+    HB.addHydrogens(mol)
+  File "C:\adt\lib\site-packages\MolKit\hydrogenBuilder.py", line 61, in addHydrogens
+    babel.assignHybridization(mol.allAtoms)
+  File "C:\adt\lib\site-packages\PyBabel\atomTypes.py", line 127, in assignHybridization
+    a.babel_atomic_number = self.get_atomic_number(a.babel_type)
+  File "C:\adt\lib\site-packages\PyBabel\atomTypes.py", line 103, in get_atomic_number
+    (name,_name) )
+ValueError: Could not find atomic number for A A
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  A6hyj.pdb
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+Traceback (most recent call last):
+  File "C:\adt\Lib\site-packages\AutoDockTools\prepare_ligand4.py", line 242, in <module>
+    attach_singletons=attach_singletons)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 1016, in __init__
+    detect_bonds_between_cycles=detect_bonds_between_cycles)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 765, in __init__
+    delete_single_nonstd_residues=False)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 124, in __init__
+    self.repairMol(mol, self.repair_type_list)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 174, in repairMol
+    self.newHs = self.addHydrogens(mol)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 187, in addHydrogens
+    HB.addHydrogens(mol)
+  File "C:\adt\lib\site-packages\MolKit\hydrogenBuilder.py", line 61, in addHydrogens
+    babel.assignHybridization(mol.allAtoms)
+  File "C:\adt\lib\site-packages\PyBabel\atomTypes.py", line 127, in assignHybridization
+    a.babel_atomic_number = self.get_atomic_number(a.babel_type)
+  File "C:\adt\lib\site-packages\PyBabel\atomTypes.py", line 103, in get_atomic_number
+    (name,_name) )
+ValueError: Could not find atomic number for A A
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  HELPPLS.pdb
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+Traceback (most recent call last):
+  File "C:\adt\Lib\site-packages\AutoDockTools\prepare_ligand4.py", line 242, in <module>
+    attach_singletons=attach_singletons)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 1016, in __init__
+    detect_bonds_between_cycles=detect_bonds_between_cycles)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 765, in __init__
+    delete_single_nonstd_residues=False)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 124, in __init__
+    self.repairMol(mol, self.repair_type_list)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 174, in repairMol
+    self.newHs = self.addHydrogens(mol)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 187, in addHydrogens
+    HB.addHydrogens(mol)
+  File "C:\adt\lib\site-packages\MolKit\hydrogenBuilder.py", line 61, in addHydrogens
+    babel.assignHybridization(mol.allAtoms)
+  File "C:\adt\lib\site-packages\PyBabel\atomTypes.py", line 127, in assignHybridization
+    a.babel_atomic_number = self.get_atomic_number(a.babel_type)
+  File "C:\adt\lib\site-packages\PyBabel\atomTypes.py", line 103, in get_atomic_number
+    (name,_name) )
+ValueError: Could not find atomic number for A A
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  Herointest.pdbqt
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+returning  0
+No change in atomic coordinates
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  LigandEmmet_0M.pdb
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+returning  0
+No change in atomic coordinates
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  LigandEmmet_1M.pdb
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+returning  0
+No change in atomic coordinates
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  LigandEmmet_2M.pdb
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+returning  0
+No change in atomic coordinates
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  LigandEmmet_3M.pdb
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+returning  0
+No change in atomic coordinates
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  OutputNew.pdbqt
+more than one molecule in file
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+returning  0
+No change in atomic coordinates
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  t3e77Agaub.pdbqt
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+adding gasteiger charges to peptide
+Traceback (most recent call last):
+  File "C:\adt\Lib\site-packages\AutoDockTools\prepare_ligand4.py", line 242, in <module>
+    attach_singletons=attach_singletons)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 1016, in __init__
+    detect_bonds_between_cycles=detect_bonds_between_cycles)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 776, in __init__
+    detectAll=self.detect_bonds_between_cycles)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 1796, in __init__
+    self.__classifyBonds(molecule.allAtoms, allow_guanidinium_torsions)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 1834, in __classifyBonds
+    dict =self.dict = ADBC.classify(mol.allAtoms.bonds[0])
+  File "C:\adt\lib\site-packages\AutoDockTools\AutoDockBondClassifier.py", line 56, in classify
+    rotatables = self.d['rotatable'].select(bonds)
+  File "C:\adt\lib\site-packages\MolKit\bondSelector.py", line 540, in select
+    cycleBonds = CycleBondSelector().select(rotatable,detectAll=detectAll)
+  File "C:\adt\lib\site-packages\MolKit\bondSelector.py", line 299, in select
+    rf.findRings2(ats, bnds, maxSize=len(ats))
+  File "C:\adt\lib\site-packages\PyBabel\cycle.py", line 132, in findRings2
+    ra, rb = self.findSmallestRing(a, maxLevel)
+  File "C:\adt\lib\site-packages\PyBabel\cycle.py", line 263, in findSmallestRing
+    for b in levelroot.bonds:
+  File "C:\adt\lib\site-packages\MolKit\listSet.py", line 188, in __iter__
+    return iter(self.data)
+KeyboardInterrupt
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  HELPPLS.pdb
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+Traceback (most recent call last):
+  File "C:\adt\Lib\site-packages\AutoDockTools\prepare_ligand4.py", line 242, in <module>
+    attach_singletons=attach_singletons)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 1016, in __init__
+    detect_bonds_between_cycles=detect_bonds_between_cycles)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 765, in __init__
+    delete_single_nonstd_residues=False)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 124, in __init__
+    self.repairMol(mol, self.repair_type_list)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 174, in repairMol
+    self.newHs = self.addHydrogens(mol)
+  File "C:\adt\lib\site-packages\AutoDockTools\MoleculePreparation.py", line 187, in addHydrogens
+    HB.addHydrogens(mol)
+  File "C:\adt\lib\site-packages\MolKit\hydrogenBuilder.py", line 61, in addHydrogens
+    babel.assignHybridization(mol.allAtoms)
+  File "C:\adt\lib\site-packages\PyBabel\atomTypes.py", line 127, in assignHybridization
+    a.babel_atomic_number = self.get_atomic_number(a.babel_type)
+  File "C:\adt\lib\site-packages\PyBabel\atomTypes.py", line 103, in get_atomic_number
+    (name,_name) )
+ValueError: Could not find atomic number for A A
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  LigandEmmet_0M.pdb
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+returning  0
+No change in atomic coordinates
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  LigandEmmet_1M.pdb
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+returning  0
+No change in atomic coordinates
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  LigandEmmet_2M.pdb
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+returning  0
+No change in atomic coordinates
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  LigandEmmet_3M.pdb
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+returning  0
+No change in atomic coordinates
+set verbose to  True
+set repairs to  hydrogens
+set cleanup to merge  nphs
+read  OutputNew.pdbqt
+swig/python detected a memory leak of type 'BHtree *', no destructor found.
+setting up LPO with mode= automatic and outputfilename=  None
+and check_for_fragments= False
+and bonds_to_inactivate= 
+returning  0
+No change in atomic coordinates
+prepare_ligand4: ligand filename must be specified.
+Usage: prepare_ligand4.py -l filename
+
+    Description of command...
+         -l     ligand_filename (.pdb or .mol2 or .pdbq format)
+    Optional parameters:
+        [-v]    verbose output
+        [-o pdbqt_filename] (default output filename is ligand_filename_stem + .pdbqt)
+        [-d]    dictionary to write types list and number of active torsions 
+        [-A]    type(s) of repairs to make:
+		 bonds_hydrogens, bonds, hydrogens (default is to do no repairs)
+        [-C]    do not add charges (default is to add gasteiger charges)
+        [-p]    preserve input charges on an atom type, eg -p Zn
+               (default is not to preserve charges on any specific atom type)
+        [-U]    cleanup type:
+		 nphs_lps, nphs, lps, '' (default is 'nphs_lps') 
+        [-B]    type(s) of bonds to allow to rotate 
+               (default sets 'backbone' rotatable and 'amide' + 'guanidinium' non-rotatable)
+        [-R]    index for root
+        [-F]    check for and use largest non-bonded fragment (default is not to do this)
+        [-M]    interactive (default is automatic output)
+        [-I]    string of bonds to inactivate composed of 
+                   of zero-based atom indices eg 5_13_2_10  
+                   will inactivate atoms[5]-atoms[13] bond 
+                               and atoms[2]-atoms[10] bond 
+                      (default is not to inactivate any specific bonds)
+        [-Z]    inactivate all active torsions     
+                      (default is leave all rotatable active except amide and guanidinium)
+        [-g]    attach all nonbonded fragments 
+        [-s]    attach all nonbonded singletons: 
+                   NB: sets attach all nonbonded fragments too
+                      (default is not to do this)
+        [-w]   assign each ligand atom a unique name: newname is original name plus its index(1-based)
+prepare_ligand4: ligand filename must be specified.
+Usage: prepare_ligand4.py -l filename
+
+    Description of command...
+         -l     ligand_filename (.pdb or .mol2 or .pdbq format)
+    Optional parameters:
+        [-v]    verbose output
+        [-o pdbqt_filename] (default output filename is ligand_filename_stem + .pdbqt)
+        [-d]    dictionary to write types list and number of active torsions 
+        [-A]    type(s) of repairs to make:
+		 bonds_hydrogens, bonds, hydrogens (default is to do no repairs)
+        [-C]    do not add charges (default is to add gasteiger charges)
+        [-p]    preserve input charges on an atom type, eg -p Zn
+               (default is not to preserve charges on any specific atom type)
+        [-U]    cleanup type:
+		 nphs_lps, nphs, lps, '' (default is 'nphs_lps') 
+        [-B]    type(s) of bonds to allow to rotate 
+               (default sets 'backbone' rotatable and 'amide' + 'guanidinium' non-rotatable)
+        [-R]    index for root
+        [-F]    check for and use largest non-bonded fragment (default is not to do this)
+        [-M]    interactive (default is automatic output)
+        [-I]    string of bonds to inactivate composed of 
+                   of zero-based atom indices eg 5_13_2_10  
+                   will inactivate atoms[5]-atoms[13] bond 
+                               and atoms[2]-atoms[10] bond 
+                      (default is not to inactivate any specific bonds)
+        [-Z]    inactivate all active torsions     
+                      (default is leave all rotatable active except amide and guanidinium)
+        [-g]    attach all nonbonded fragments 
+        [-s]    attach all nonbonded singletons: 
+                   NB: sets attach all nonbonded fragments too
+                      (default is not to do this)
+        [-w]   assign each ligand atom a unique name: newname is original name plus its index(1-based)
+prepare_ligand4: ligand filename must be specified.
+Usage: prepare_ligand4.py -l filename
+
+    Description of command...
+         -l     ligand_filename (.pdb or .mol2 or .pdbq format)
+    Optional parameters:
+        [-v]    verbose output
+        [-o pdbqt_filename] (default output filename is ligand_filename_stem + .pdbqt)
+        [-d]    dictionary to write types list and number of active torsions 
+        [-A]    type(s) of repairs to make:
+		 bonds_hydrogens, bonds, hydrogens (default is to do no repairs)
+        [-C]    do not add charges (default is to add gasteiger charges)
+        [-p]    preserve input charges on an atom type, eg -p Zn
+               (default is not to preserve charges on any specific atom type)
+        [-U]    cleanup type:
+		 nphs_lps, nphs, lps, '' (default is 'nphs_lps') 
+        [-B]    type(s) of bonds to allow to rotate 
+               (default sets 'backbone' rotatable and 'amide' + 'guanidinium' non-rotatable)
+        [-R]    index for root
+        [-F]    check for and use largest non-bonded fragment (default is not to do this)
+        [-M]    interactive (default is automatic output)
+        [-I]    string of bonds to inactivate composed of 
+                   of zero-based atom indices eg 5_13_2_10  
+                   will inactivate atoms[5]-atoms[13] bond 
+                               and atoms[2]-atoms[10] bond 
+                      (default is not to inactivate any specific bonds)
+        [-Z]    inactivate all active torsions     
+                      (default is leave all rotatable active except amide and guanidinium)
+        [-g]    attach all nonbonded fragments 
+        [-s]    attach all nonbonded singletons: 
+                   NB: sets attach all nonbonded fragments too
+                      (default is not to do this)
+        [-w]   assign each ligand atom a unique name: newname is original name plus its index(1-based)
+prepare_ligand4: ligand filename must be specified.
+Usage: prepare_ligand4.py -l filename
+
+    Description of command...
+         -l     ligand_filename (.pdb or .mol2 or .pdbq format)
+    Optional parameters:
+        [-v]    verbose output
+        [-o pdbqt_filename] (default output filename is ligand_filename_stem + .pdbqt)
+        [-d]    dictionary to write types list and number of active torsions 
+        [-A]    type(s) of repairs to make:
+		 bonds_hydrogens, bonds, hydrogens (default is to do no repairs)
+        [-C]    do not add charges (default is to add gasteiger charges)
+        [-p]    preserve input charges on an atom type, eg -p Zn
+               (default is not to preserve charges on any specific atom type)
+        [-U]    cleanup type:
+		 nphs_lps, nphs, lps, '' (default is 'nphs_lps') 
+        [-B]    type(s) of bonds to allow to rotate 
+               (default sets 'backbone' rotatable and 'amide' + 'guanidinium' non-rotatable)
+        [-R]    index for root
+        [-F]    check for and use largest non-bonded fragment (default is not to do this)
+        [-M]    interactive (default is automatic output)
+        [-I]    string of bonds to inactivate composed of 
+                   of zero-based atom indices eg 5_13_2_10  
+                   will inactivate atoms[5]-atoms[13] bond 
+                               and atoms[2]-atoms[10] bond 
+                      (default is not to inactivate any specific bonds)
+        [-Z]    inactivate all active torsions     
+                      (default is leave all rotatable active except amide and guanidinium)
+        [-g]    attach all nonbonded fragments 
+        [-s]    attach all nonbonded singletons: 
+                   NB: sets attach all nonbonded fragments too
+                      (default is not to do this)
+        [-w]   assign each ligand atom a unique name: newname is original name plus its index(1-based)
+prepare_ligand4: ligand filename must be specified.
+Usage: prepare_ligand4.py -l filename
+
+    Description of command...
+         -l     ligand_filename (.pdb or .mol2 or .pdbq format)
+    Optional parameters:
+        [-v]    verbose output
+        [-o pdbqt_filename] (default output filename is ligand_filename_stem + .pdbqt)
+        [-d]    dictionary to write types list and number of active torsions 
+        [-A]    type(s) of repairs to make:
+		 bonds_hydrogens, bonds, hydrogens (default is to do no repairs)
+        [-C]    do not add charges (default is to add gasteiger charges)
+        [-p]    preserve input charges on an atom type, eg -p Zn
+               (default is not to preserve charges on any specific atom type)
+        [-U]    cleanup type:
+		 nphs_lps, nphs, lps, '' (default is 'nphs_lps') 
+        [-B]    type(s) of bonds to allow to rotate 
+               (default sets 'backbone' rotatable and 'amide' + 'guanidinium' non-rotatable)
+        [-R]    index for root
+        [-F]    check for and use largest non-bonded fragment (default is not to do this)
+        [-M]    interactive (default is automatic output)
+        [-I]    string of bonds to inactivate composed of 
+                   of zero-based atom indices eg 5_13_2_10  
+                   will inactivate atoms[5]-atoms[13] bond 
+                               and atoms[2]-atoms[10] bond 
+                      (default is not to inactivate any specific bonds)
+        [-Z]    inactivate all active torsions     
+                      (default is leave all rotatable active except amide and guanidinium)
+        [-g]    attach all nonbonded fragments 
+        [-s]    attach all nonbonded singletons: 
+                   NB: sets attach all nonbonded fragments too
+                      (default is not to do this)
+        [-w]   assign each ligand atom a unique name: newname is original name plus its index(1-based)
+prepare_ligand4: ligand filename must be specified.
+Usage: prepare_ligand4.py -l filename
+
+    Description of command...
+         -l     ligand_filename (.pdb or .mol2 or .pdbq format)
+    Optional parameters:
+        [-v]    verbose output
+        [-o pdbqt_filename] (default output filename is ligand_filename_stem + .pdbqt)
+        [-d]    dictionary to write types list and number of active torsions 
+        [-A]    type(s) of repairs to make:
+		 bonds_hydrogens, bonds, hydrogens (default is to do no repairs)
+        [-C]    do not add charges (default is to add gasteiger charges)
+        [-p]    preserve input charges on an atom type, eg -p Zn
+               (default is not to preserve charges on any specific atom type)
+        [-U]    cleanup type:
+		 nphs_lps, nphs, lps, '' (default is 'nphs_lps') 
+        [-B]    type(s) of bonds to allow to rotate 
+               (default sets 'backbone' rotatable and 'amide' + 'guanidinium' non-rotatable)
+        [-R]    index for root
+        [-F]    check for and use largest non-bonded fragment (default is not to do this)
+        [-M]    interactive (default is automatic output)
+        [-I]    string of bonds to inactivate composed of 
+                   of zero-based atom indices eg 5_13_2_10  
+                   will inactivate atoms[5]-atoms[13] bond 
+                               and atoms[2]-atoms[10] bond 
+                      (default is not to inactivate any specific bonds)
+        [-Z]    inactivate all active torsions     
+                      (default is leave all rotatable active except amide and guanidinium)
+        [-g]    attach all nonbonded fragments 
+        [-s]    attach all nonbonded singletons: 
+                   NB: sets attach all nonbonded fragments too
+                      (default is not to do this)
+        [-w]   assign each ligand atom a unique name: newname is original name plus its index(1-based)
+prepare_ligand4: ligand filename must be specified.
+Usage: prepare_ligand4.py -l filename
+
+    Description of command...
+         -l     ligand_filename (.pdb or .mol2 or .pdbq format)
+    Optional parameters:
+        [-v]    verbose output
+        [-o pdbqt_filename] (default output filename is ligand_filename_stem + .pdbqt)
+        [-d]    dictionary to write types list and number of active torsions 
+        [-A]    type(s) of repairs to make:
+		 bonds_hydrogens, bonds, hydrogens (default is to do no repairs)
+        [-C]    do not add charges (default is to add gasteiger charges)
+        [-p]    preserve input charges on an atom type, eg -p Zn
+               (default is not to preserve charges on any specific atom type)
+        [-U]    cleanup type:
+		 nphs_lps, nphs, lps, '' (default is 'nphs_lps') 
+        [-B]    type(s) of bonds to allow to rotate 
+               (default sets 'backbone' rotatable and 'amide' + 'guanidinium' non-rotatable)
+        [-R]    index for root
+        [-F]    check for and use largest non-bonded fragment (default is not to do this)
+        [-M]    interactive (default is automatic output)
+        [-I]    string of bonds to inactivate composed of 
+                   of zero-based atom indices eg 5_13_2_10  
+                   will inactivate atoms[5]-atoms[13] bond 
+                               and atoms[2]-atoms[10] bond 
+                      (default is not to inactivate any specific bonds)
+        [-Z]    inactivate all active torsions     
+                      (default is leave all rotatable active except amide and guanidinium)
+        [-g]    attach all nonbonded fragments 
+        [-s]    attach all nonbonded singletons: 
+                   NB: sets attach all nonbonded fragments too
+                      (default is not to do this)
+        [-w]   assign each ligand atom a unique name: newname is original name plus its index(1-based)
+prepare_ligand4: ligand filename must be specified.
+Usage: prepare_ligand4.py -l filename
+
+    Description of command...
+         -l     ligand_filename (.pdb or .mol2 or .pdbq format)
+    Optional parameters:
+        [-v]    verbose output
+        [-o pdbqt_filename] (default output filename is ligand_filename_stem + .pdbqt)
+        [-d]    dictionary to write types list and number of active torsions 
+        [-A]    type(s) of repairs to make:
+		 bonds_hydrogens, bonds, hydrogens (default is to do no repairs)
+        [-C]    do not add charges (default is to add gasteiger charges)
+        [-p]    preserve input charges on an atom type, eg -p Zn
+               (default is not to preserve charges on any specific atom type)
+        [-U]    cleanup type:
+		 nphs_lps, nphs, lps, '' (default is 'nphs_lps') 
+        [-B]    type(s) of bonds to allow to rotate 
+               (default sets 'backbone' rotatable and 'amide' + 'guanidinium' non-rotatable)
+        [-R]    index for root
+        [-F]    check for and use largest non-bonded fragment (default is not to do this)
+        [-M]    interactive (default is automatic output)
+        [-I]    string of bonds to inactivate composed of 
+                   of zero-based atom indices eg 5_13_2_10  
+                   will inactivate atoms[5]-atoms[13] bond 
+                               and atoms[2]-atoms[10] bond 
+                      (default is not to inactivate any specific bonds)
+        [-Z]    inactivate all active torsions     
+                      (default is leave all rotatable active except amide and guanidinium)
+        [-g]    attach all nonbonded fragments 
+        [-s]    attach all nonbonded singletons: 
+                   NB: sets attach all nonbonded fragments too
+                      (default is not to do this)
+        [-w]   assign each ligand atom a unique name: newname is original name plus its index(1-based)
+prepare_ligand4: ligand filename must be specified.
+Usage: prepare_ligand4.py -l filename
+
+    Description of command...
+         -l     ligand_filename (.pdb or .mol2 or .pdbq format)
+    Optional parameters:
+        [-v]    verbose output
+        [-o pdbqt_filename] (default output filename is ligand_filename_stem + .pdbqt)
+        [-d]    dictionary to write types list and number of active torsions 
+        [-A]    type(s) of repairs to make:
+		 bonds_hydrogens, bonds, hydrogens (default is to do no repairs)
+        [-C]    do not add charges (default is to add gasteiger charges)
+        [-p]    preserve input charges on an atom type, eg -p Zn
+               (default is not to preserve charges on any specific atom type)
+        [-U]    cleanup type:
+		 nphs_lps, nphs, lps, '' (default is 'nphs_lps') 
+        [-B]    type(s) of bonds to allow to rotate 
+               (default sets 'backbone' rotatable and 'amide' + 'guanidinium' non-rotatable)
+        [-R]    index for root
+        [-F]    check for and use largest non-bonded fragment (default is not to do this)
+        [-M]    interactive (default is automatic output)
+        [-I]    string of bonds to inactivate composed of 
+                   of zero-based atom indices eg 5_13_2_10  
+                   will inactivate atoms[5]-atoms[13] bond 
+                               and atoms[2]-atoms[10] bond 
+                      (default is not to inactivate any specific bonds)
+        [-Z]    inactivate all active torsions     
+                      (default is leave all rotatable active except amide and guanidinium)
+        [-g]    attach all nonbonded fragments 
+        [-s]    attach all nonbonded singletons: 
+                   NB: sets attach all nonbonded fragments too
+                      (default is not to do this)
+        [-w]   assign each ligand atom a unique name: newname is original name plus its index(1-based)
+prepare_ligand4: ligand filename must be specified.
+Usage: prepare_ligand4.py -l filename
+
+    Description of command...
+         -l     ligand_filename (.pdb or .mol2 or .pdbq format)
+    Optional parameters:
+        [-v]    verbose output
+        [-o pdbqt_filename] (default output filename is ligand_filename_stem + .pdbqt)
+        [-d]    dictionary to write types list and number of active torsions 
+        [-A]    type(s) of repairs to make:
+		 bonds_hydrogens, bonds, hydrogens (default is to do no repairs)
+        [-C]    do not add charges (default is to add gasteiger charges)
+        [-p]    preserve input charges on an atom type, eg -p Zn
+               (default is not to preserve charges on any specific atom type)
+        [-U]    cleanup type:
+		 nphs_lps, nphs, lps, '' (default is 'nphs_lps') 
+        [-B]    type(s) of bonds to allow to rotate 
+               (default sets 'backbone' rotatable and 'amide' + 'guanidinium' non-rotatable)
+        [-R]    index for root
+        [-F]    check for and use largest non-bonded fragment (default is not to do this)
+        [-M]    interactive (default is automatic output)
+        [-I]    string of bonds to inactivate composed of 
+                   of zero-based atom indices eg 5_13_2_10  
+                   will inactivate atoms[5]-atoms[13] bond 
+                               and atoms[2]-atoms[10] bond 
+                      (default is not to inactivate any specific bonds)
+        [-Z]    inactivate all active torsions     
+                      (default is leave all rotatable active except amide and guanidinium)
+        [-g]    attach all nonbonded fragments 
+        [-s]    attach all nonbonded singletons: 
+                   NB: sets attach all nonbonded fragments too
+                      (default is not to do this)
+        [-w]   assign each ligand atom a unique name: newname is original name plus its index(1-based)
+prepare_ligand4: ligand filename must be specified.
+Usage: prepare_ligand4.py -l filename
+
+    Description of command...
+         -l     ligand_filename (.pdb or .mol2 or .pdbq format)
+    Optional parameters:
+        [-v]    verbose output
+        [-o pdbqt_filename] (default output filename is ligand_filename_stem + .pdbqt)
+        [-d]    dictionary to write types list and number of active torsions 
+        [-A]    type(s) of repairs to make:
+		 bonds_hydrogens, bonds, hydrogens (default is to do no repairs)
+        [-C]    do not add charges (default is to add gasteiger charges)
+        [-p]    preserve input charges on an atom type, eg -p Zn
+               (default is not to preserve charges on any specific atom type)
+        [-U]    cleanup type:
+		 nphs_lps, nphs, lps, '' (default is 'nphs_lps') 
+        [-B]    type(s) of bonds to allow to rotate 
+               (default sets 'backbone' rotatable and 'amide' + 'guanidinium' non-rotatable)
+        [-R]    index for root
+        [-F]    check for and use largest non-bonded fragment (default is not to do this)
+        [-M]    interactive (default is automatic output)
+        [-I]    string of bonds to inactivate composed of 
+                   of zero-based atom indices eg 5_13_2_10  
+                   will inactivate atoms[5]-atoms[13] bond 
+                               and atoms[2]-atoms[10] bond 
+                      (default is not to inactivate any specific bonds)
+        [-Z]    inactivate all active torsions     
+                      (default is leave all rotatable active except amide and guanidinium)
+        [-g]    attach all nonbonded fragments 
+        [-s]    attach all nonbonded singletons: 
+                   NB: sets attach all nonbonded fragments too
+                      (default is not to do this)
+        [-w]   assign each ligand atom a unique name: newname is original name plus its index(1-based)
+prepare_ligand4: ligand filename must be specified.
+Usage: prepare_ligand4.py -l filename
+
+    Description of command...
+         -l     ligand_filename (.pdb or .mol2 or .pdbq format)
+    Optional parameters:
+        [-v]    verbose output
+        [-o pdbqt_filename] (default output filename is ligand_filename_stem + .pdbqt)
+        [-d]    dictionary to write types list and number of active torsions 
+        [-A]    type(s) of repairs to make:
+		 bonds_hydrogens, bonds, hydrogens (default is to do no repairs)
+        [-C]    do not add charges (default is to add gasteiger charges)
+        [-p]    preserve input charges on an atom type, eg -p Zn
+               (default is not to preserve charges on any specific atom type)
+        [-U]    cleanup type:
+		 nphs_lps, nphs, lps, '' (default is 'nphs_lps') 
+        [-B]    type(s) of bonds to allow to rotate 
+               (default sets 'backbone' rotatable and 'amide' + 'guanidinium' non-rotatable)
+        [-R]    index for root
+        [-F]    check for and use largest non-bonded fragment (default is not to do this)
+        [-M]    interactive (default is automatic output)
+        [-I]    string of bonds to inactivate composed of 
+                   of zero-based atom indices eg 5_13_2_10  
+                   will inactivate atoms[5]-atoms[13] bond 
+                               and atoms[2]-atoms[10] bond 
+                      (default is not to inactivate any specific bonds)
+        [-Z]    inactivate all active torsions     
+                      (default is leave all rotatable active except amide and guanidinium)
+        [-g]    attach all nonbonded fragments 
+        [-s]    attach all nonbonded singletons: 
+                   NB: sets attach all nonbonded fragments too
+                      (default is not to do this)
+        [-w]   assign each ligand atom a unique name: newname is original name plus its index(1-based)
+prepare_ligand4: ligand filename must be specified.
+Usage: prepare_ligand4.py -l filename
+
+    Description of command...
+         -l     ligand_filename (.pdb or .mol2 or .pdbq format)
+    Optional parameters:
+        [-v]    verbose output
+        [-o pdbqt_filename] (default output filename is ligand_filename_stem + .pdbqt)
+        [-d]    dictionary to write types list and number of active torsions 
+        [-A]    type(s) of repairs to make:
+		 bonds_hydrogens, bonds, hydrogens (default is to do no repairs)
+        [-C]    do not add charges (default is to add gasteiger charges)
+        [-p]    preserve input charges on an atom type, eg -p Zn
+               (default is not to preserve charges on any specific atom type)
+        [-U]    cleanup type:
+		 nphs_lps, nphs, lps, '' (default is 'nphs_lps') 
+        [-B]    type(s) of bonds to allow to rotate 
+               (default sets 'backbone' rotatable and 'amide' + 'guanidinium' non-rotatable)
+        [-R]    index for root
+        [-F]    check for and use largest non-bonded fragment (default is not to do this)
+        [-M]    interactive (default is automatic output)
+        [-I]    string of bonds to inactivate composed of 
+                   of zero-based atom indices eg 5_13_2_10  
+                   will inactivate atoms[5]-atoms[13] bond 
+                               and atoms[2]-atoms[10] bond 
+                      (default is not to inactivate any specific bonds)
+        [-Z]    inactivate all active torsions     
+                      (default is leave all rotatable active except amide and guanidinium)
+        [-g]    attach all nonbonded fragments 
+        [-s]    attach all nonbonded singletons: 
+                   NB: sets attach all nonbonded fragments too
+                      (default is not to do this)
+        [-w]   assign each ligand atom a unique name: newname is original name plus its index(1-based)
+prepare_ligand4: ligand filename must be specified.
+Usage: prepare_ligand4.py -l filename
+
+    Description of command...
+         -l     ligand_filename (.pdb or .mol2 or .pdbq format)
+    Optional parameters:
+        [-v]    verbose output
+        [-o pdbqt_filename] (default output filename is ligand_filename_stem + .pdbqt)
+        [-d]    dictionary to write types list and number of active torsions 
+        [-A]    type(s) of repairs to make:
+		 bonds_hydrogens, bonds, hydrogens (default is to do no repairs)
+        [-C]    do not add charges (default is to add gasteiger charges)
+        [-p]    preserve input charges on an atom type, eg -p Zn
+               (default is not to preserve charges on any specific atom type)
+        [-U]    cleanup type:
+		 nphs_lps, nphs, lps, '' (default is 'nphs_lps') 
+        [-B]    type(s) of bonds to allow to rotate 
+               (default sets 'backbone' rotatable and 'amide' + 'guanidinium' non-rotatable)
+        [-R]    index for root
+        [-F]    check for and use largest non-bonded fragment (default is not to do this)
+        [-M]    interactive (default is automatic output)
+        [-I]    string of bonds to inactivate composed of 
+                   of zero-based atom indices eg 5_13_2_10  
+                   will inactivate atoms[5]-atoms[13] bond 
+                               and atoms[2]-atoms[10] bond 
+                      (default is not to inactivate any specific bonds)
+        [-Z]    inactivate all active torsions     
+                      (default is leave all rotatable active except amide and guanidinium)
+        [-g]    attach all nonbonded fragments 
+        [-s]    attach all nonbonded singletons: 
+                   NB: sets attach all nonbonded fragments too
+                      (default is not to do this)
+        [-w]   assign each ligand atom a unique name: newname is original name plus its index(1-based)
+prepare_ligand4: ligand filename must be specified.
+Usage: prepare_ligand4.py -l filename
+
+    Description of command...
+         -l     ligand_filename (.pdb or .mol2 or .pdbq format)
+    Optional parameters:
+        [-v]    verbose output
+        [-o pdbqt_filename] (default output filename is ligand_filename_stem + .pdbqt)
+        [-d]    dictionary to write types list and number of active torsions 
+        [-A]    type(s) of repairs to make:
+		 bonds_hydrogens, bonds, hydrogens (default is to do no repairs)
+        [-C]    do not add charges (default is to add gasteiger charges)
+        [-p]    preserve input charges on an atom type, eg -p Zn
+               (default is not to preserve charges on any specific atom type)
+        [-U]    cleanup type:
+		 nphs_lps, nphs, lps, '' (default is 'nphs_lps') 
+        [-B]    type(s) of bonds to allow to rotate 
+               (default sets 'backbone' rotatable and 'amide' + 'guanidinium' non-rotatable)
+        [-R]    index for root
+        [-F]    check for and use largest non-bonded fragment (default is not to do this)
+        [-M]    interactive (default is automatic output)
+        [-I]    string of bonds to inactivate composed of 
+                   of zero-based atom indices eg 5_13_2_10  
+                   will inactivate atoms[5]-atoms[13] bond 
+                               and atoms[2]-atoms[10] bond 
+                      (default is not to inactivate any specific bonds)
+        [-Z]    inactivate all active torsions     
+                      (default is leave all rotatable active except amide and guanidinium)
+        [-g]    attach all nonbonded fragments 
+        [-s]    attach all nonbonded singletons: 
+                   NB: sets attach all nonbonded fragments too
+                      (default is not to do this)
+        [-w]   assign each ligand atom a unique name: newname is original name plus its index(1-based)
+prepare_ligand4: ligand filename must be specified.
+Usage: prepare_ligand4.py -l filename
+
+    Description of command...
+         -l     ligand_filename (.pdb or .mol2 or .pdbq format)
+    Optional parameters:
+        [-v]    verbose output
+        [-o pdbqt_filename] (default output filename is ligand_filename_stem + .pdbqt)
+        [-d]    dictionary to write types list and number of active torsions 
+        [-A]    type(s) of repairs to make:
+		 bonds_hydrogens, bonds, hydrogens (default is to do no repairs)
+        [-C]    do not add charges (default is to add gasteiger charges)
+        [-p]    preserve input charges on an atom type, eg -p Zn
+               (default is not to preserve charges on any specific atom type)
+        [-U]    cleanup type:
+		 nphs_lps, nphs, lps, '' (default is 'nphs_lps') 
+        [-B]    type(s) of bonds to allow to rotate 
+               (default sets 'backbone' rotatable and 'amide' + 'guanidinium' non-rotatable)
+        [-R]    index for root
+        [-F]    check for and use largest non-bonded fragment (default is not to do this)
+        [-M]    interactive (default is automatic output)
+        [-I]    string of bonds to inactivate composed of 
+                   of zero-based atom indices eg 5_13_2_10  
+                   will inactivate atoms[5]-atoms[13] bond 
+                               and atoms[2]-atoms[10] bond 
+                      (default is not to inactivate any specific bonds)
+        [-Z]    inactivate all active torsions     
+                      (default is leave all rotatable active except amide and guanidinium)
+        [-g]    attach all nonbonded fragments 
+        [-s]    attach all nonbonded singletons: 
+                   NB: sets attach all nonbonded fragments too
+                      (default is not to do this)
+        [-w]   assign each ligand atom a unique name: newname is original name plus its index(1-based)

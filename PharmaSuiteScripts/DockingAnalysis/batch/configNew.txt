@@ -1,0 +1,13 @@
+receptor = PLEASE.pdbqt
+log  = log.txt
+
+center_x = 2.466
+center_y = 35.984
+center_z = 50.269
+
+size_x = 58
+size_y = 54
+size_z = 60
+
+
+exhaustiveness = 8

@@ -1,0 +1,23 @@
+This software is the result of many many hours of tinkering with petty changes and 
+adjusting directory setups, it is a labor of love and the product of my blood,sweat
+,tears, and close to 40 hrs of work. As such it is a mess and it does not like to 
+run on systems other than my own. I have no clue how to make this run on mac or 
+linux but if you are on a windows system you should be able to install mgl tools in
+a new directory at this location and with this name exactly "C:\adt" then complete 
+setup for the various systems in mgltools as per your preference, now install this 
+zip and extract it in the following location which should exist if everything is 
+working at this path "C:\adt\Lib\site-packages\AutoDockTools" you should then install
+Vina and move the vina.exe executable and the vina.split executable into the 
+autodock tools folder.Extract this folder in your program files, move the docking 
+analysis folder into the autodock folder and unpack it by moving the batch scripts 
+to the autodock tools folder, this includes the config file and the enzyme pdbqt.
+Install your conda environment as per the spec file provided, also ensure your 
+path is conifgured to include the python executable at "C\adt\python.exe" and the
+entire "C:\adt" directory.
+
+Common troubleshooting fixes:
+-Ensure all directories exist at the paths specified in this readme which should match the code
+-Ensure all executables and their dependencies are installed in the correct directories
+(both of these shouldnt be an issue if you follow the installation protocol)
+-Check file permissions, ensure all scripts have full access to read and write files and all users/system have full access to 
+-Configure your path to include the Vina.exe executable 
